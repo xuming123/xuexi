@@ -1,0 +1,120 @@
+*{padding:0;margin:0;}
+body,html{font-size:12px;}
+ul li,ol li{list-style: none;padding:0;margin:0;}
+.cl{clear: both;}
+a{text-decoration: none;color:#000;}
+img{border:0;}
+
+
+
+.header{height:45px;background:#424242;overflow: hidden;line-height: 45px;color:#fff;}
+.warpper{width:1200px;margin:0 auto;}
+
+ul.headleft {float: left;}
+ul.headleft li{float: left;padding:0 10px;}
+.headright{float:right;}
+.headright img{float:right;display: inline-block;margin:12px 10px 0 10px;}
+
+
+  #lunbo {width: 1200px;height: 400px;position: relative;overflow: hidden;}
+  #lunbo ul {position: absolute;left: -1200px;top: 0; width: 700%; overflow: hidden; }
+  #lunbo ul li {float: left;}
+   #lunbo ul li img{width: 1200px}
+   #lunbo ol{ width: 100px;position: absolute;left: 50%; margin-left: -50px;
+            bottom: 50px; }    
+ #lunbo ol li { width: 13px;height: 13px;   border: 1px solid #cacaca;
+            background: green;float: left;margin-right: 5px;color: white;
+            text-align: center;font-size: 12px;line-height: 15px;
+           
+        }
+        #lunbo ol li.select{
+            background: red;
+
+        }
+
+.barrer img{width:1200px;height:418px;}
+
+
+/*.menutitile{padding:20px;}*/
+.logo{width:180px;height:53px;float: left;background: #1c98da;margin: 20px 0 20px 20px}
+ul.menu{float: right;padding-top: 20px;}
+ul.menu li{display: inline-block;line-height: 53px;padding:0 25px;}
+ul.menu li a{display: block;font-size: 16px;}
+ul.menu li a:hover,ul.menu li.ok a{border-bottom: 2px solid #008cd6;color:#008cd6;}
+
+
+
+
+.abouts{padding:0 50px;width: 1100px;}
+.abcon {height:122px;text-align: center;}/*border:1px solid red;*/
+.abcon div{display: inline-block;padding:30px 20px 0 20px;line-height: 30px;}
+.abcon h2{color:#666666;}
+.abcon p{border-bottom: 2px solid #f08300;color:#bbbbbb;}
+.about{padding-bottom: 30px;}
+
+.aboutpub{background: #f5f4f9;}
+.aboutpub .abcon{background: url(../images/repeat.jpg) repeat-x 0 0;}
+.aboutpub .abcon div{background: #f5f4f9;}
+.listcon .abcon{background: url(../images/repeat_a.jpg) repeat-x 0 0;}
+.listcon .abcon div{background: #fff;}
+
+.listimg li,.zhifulist li{float: left;width:275px;margin:0 30px 0 50px;}
+.listimg li a{border:1px solid #008cd6;display: block;}
+.listimg li p{line-height: 30px;text-align: center;color:#595959;padding:10px 0;}
+.listimg li a:hover{border:1px solid red;}
+
+
+.zhifulist li{float: left;width:;text-align: center;}
+.zhifulist li img{ display:inline-block; }
+.zhifulist li h2{padding:15px 0;}
+.zhifulist li p{text-align: left;padding: 0 45px;}
+.zhifulist li a{border:1px solid #c1c1c1;padding:8px 20px;display: inline-block;margin:20px 0;color:#008cd6;}
+.zhifulist li a:hover{border:1px solid #008cd6;}
+
+
+.newleft{float: left;width:550px;}
+.newmenu {height:37px;overflow: hidden;}
+.newmenu li{ float: left;margin: 0 0 0 15px;}
+.newmenu li a{display: block;padding:8px 20px;color:#008cd6;border-radius: 3px;}
+.newmenu li.ok a{background: #008cd6;color:#fff;}
+
+.newslist li{line-height: 40px;border-bottom: 1px solid #e1e1e1;font-size: 14px;margin-top: 10px;}
+.newslist li span{float: right;}
+
+.newright{float: right;width:420px;}
+
+.wxbox{float: left;width: 130px;border:1px solid red;padding:5px;}
+.wxbox span{display: block;height:120px;background: red;}
+.wxbox p{text-align: center;line-height: 22px;padding-top: 10px;}
+.wxlx{background: url(../images/icons.png) no-repeat 0 0;float: right;width:240px;
+padding-left: 30px;}
+.wxlx li{font-size: 14px;line-height:31px;}
+
+.imgbg{background: red;height:120px;margin-top:30px;}
+
+
+.huoban {padding:50px 0;}
+.huoban h2{text-align: center;padding-bottom: 20px;}
+.huoban a{float: left;background: red;width:190px;height:60px;margin:10px 0 0 10px;}
+
+
+.footer{background: #434343;padding:20px 0;}
+.footleft{float: left;}
+.footmenu{color:#fff;padding:10px 0 20px 0;}
+.footmenu a{display: inline-block;margin: 0 10px 0 10px;color:#fff;}
+
+.footright{float: right;padding-top:15px;font-size: 16px;line-height: 32px;color:#fff;}
+.footright img{vertical-align: top;}
+
+.foot{height:50px;background: #000;text-align: center;color:#fff;line-height: 50px;font-size: 14px;}
+
+
+
+
+
+
+
+
+
+
+
